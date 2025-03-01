@@ -4,6 +4,10 @@ Welcome to my GitHub universe – where code meets creativity! I'm a passionate 
 
 ---
 
+![Опис гіфки](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5zcG1oaXN3enJiMGczZWthZDVxeHZ2cmp5NmM5MTkyenQyNXdkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8HIE9TTOTYbwLYyCeF/giphy.gif)
+
+---
+
 ## About Me
 
 - 🔭 Currently working on exciting web projects that push the boundaries of design and functionality.

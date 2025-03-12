@@ -8,17 +8,6 @@ Welcome to my GitHub universe – where code meets creativity! I'm a passionate 
 
 ---
 
-## About Me
-
-- 🔭 Currently working on exciting web projects that push the boundaries of design and functionality.
-- 🌱 Forever learning and evolving in the fast-paced world of web development.
-- 👯 Open to collaborate on innovative projects and cool ideas.
-- 💬 Ask me about HTML, CSS, JavaScript, or just about anything tech-related!
-- 📫 Reach out: [ifpoleksandrtataryn@gmail.com](mailto:ifpoleksandrtataryn@gmail.com)
-- ⚡ **Fun fact:** I see code as art – each line a brushstroke creating a digital masterpiece!
-
----
-
 ## Programming Languages & Tools 🎨
 
 Here's a playful peek into my tech palette:
